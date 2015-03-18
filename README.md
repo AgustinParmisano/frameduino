@@ -2,6 +2,8 @@
 
 This framework is under development. Alpha version released.
 
+To read from Pinguino use digitalRead(7) 
+
 ## Examples ##
 
 Examples using raw code and manual configuration.
